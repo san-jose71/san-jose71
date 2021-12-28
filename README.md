@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @san-jose71
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I am currently studying Python programming at an advanced level
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
 
